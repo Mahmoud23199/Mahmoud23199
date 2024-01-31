@@ -3,7 +3,6 @@
 
 <h3 align="center">
   Welcome to Mahmoud Salah's profile!
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
