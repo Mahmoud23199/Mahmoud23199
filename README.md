@@ -12,8 +12,11 @@
 </p> 
 
 -🏢 I'm a Full Stack .NET Developer with one year of experience, specializing in back-end development and IT solutions.
+
 -👨‍💻 As a Computer Science graduate and ITI alumnus, I am passionate about continuous learning and exploring new technologies to enhance my skills.
+
 -💬 Feel free to ask me about anything related to .NET development, back-end engineering, or web applications.
+
 -⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a cup of coffee!
 
 
