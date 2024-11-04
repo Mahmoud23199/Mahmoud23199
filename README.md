@@ -11,10 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Trainee at ITI
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+-🏢 I'm a Full Stack .NET Developer with one year of experience, specializing in back-end development and IT solutions.
+-👨‍💻 As a Computer Science graduate and ITI alumnus, I am passionate about continuous learning and exploring new technologies to enhance my skills.
+-💬 Feel free to ask me about anything related to .NET development, back-end engineering, or web applications.
+-⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a cup of coffee!
 
 
 
